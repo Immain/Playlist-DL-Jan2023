@@ -12,23 +12,23 @@ Downloads playlists from youtube and saves it as a mp4 file with the thumbnail a
 
 
 # Requirements:
-ffmpeg-python
+sudo ffmpeg-python
 ```
-pip3 install ffmpeg-python
+sudo pip3 install ffmpeg-python
 ```
 pafy
 ```
-pip3 install pafy
+sudo pip3 install pafy
 ```
 wget
 ```
-pip3 install wget
+sudo pip3 install wget
 ```
 youtube-dl
 ```
-pip3 install youtube-dl
+sudo pip3 install youtube-dl
 ```
 pytube
 ```
-pip3 install pytube
+sudo pip3 install pytube
 ```
